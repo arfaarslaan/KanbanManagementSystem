@@ -1,0 +1,152 @@
+[
+  {
+    "id": "01",
+    "title": "Task 1: API wire",
+    "description": "Auto-seeded task number 1.",
+    "status": "in-progress",
+    "assignee": "Jordan Rivera",
+    "tags": ["backend", "feature"],
+    "createdAt": "2025-09-09T22:39:44.385463",
+    "priority": "medium"
+  },
+  {
+    "id": "02",
+    "title": "Task 2: Fix bug",
+    "description": "Auto-seeded task number 2.",
+    "status": "done",
+    "assignee": "Sofia Patel",
+    "tags": ["bug", "docs"],
+    "createdAt": "2025-09-09T22:39:44.385505",
+    "priority": "high"
+  },
+  {
+    "id": "03",
+    "title": "Task 3: Add tests",
+    "description": "Auto-seeded task number 3.",
+    "status": "scheduled",
+    "assignee": "Marcus Lee",
+    "tags": ["feature", "devops"],
+    "createdAt": "2025-09-09T22:39:44.385523",
+    "priority": "low"
+  },
+  {
+    "id": "04",
+    "title": "Task 4: Docs",
+    "description": "Auto-seeded task number 4.",
+    "status": "in-progress",
+    "assignee": "Lina Hoffman",
+    "tags": ["docs", "frontend"],
+    "createdAt": "2025-09-09T22:39:44.385534",
+    "priority": "medium"
+  },
+  {
+    "id": "05",
+    "title": "Task 5: Polish UI",
+    "description": "Auto-seeded task number 5.",
+    "status": "done",
+    "assignee": "Omar Castillo",
+    "tags": ["devops", "backend"],
+    "createdAt": "2025-09-09T22:39:44.385544",
+    "priority": "high"
+  },
+  {
+    "id": "06",
+    "title": "Task 6: Build layout",
+    "description": "Auto-seeded task number 6.",
+    "status": "scheduled",
+    "assignee": "Amira Chen",
+    "tags": ["frontend", "bug"],
+    "createdAt": "2025-09-09T22:39:44.385553",
+    "priority": "low"
+  },
+  {
+    "id": "07",
+    "title": "Task 7: API wire",
+    "description": "Auto-seeded task number 7.",
+    "status": "in-progress",
+    "assignee": "Jordan Rivera",
+    "tags": ["backend", "feature"],
+    "createdAt": "2025-09-09T22:39:44.385565",
+    "priority": "medium"
+  },
+  {
+    "id": "08",
+    "title": "Task 8: Fix bug",
+    "description": "Auto-seeded task number 8.",
+    "status": "done",
+    "assignee": "Sofia Patel",
+    "tags": ["bug", "docs"],
+    "createdAt": "2025-09-09T22:39:44.385577",
+    "priority": "high"
+  },
+  {
+    "id": "09",
+    "title": "Task 9: Add tests",
+    "description": "Auto-seeded task number 9.",
+    "status": "scheduled",
+    "assignee": "Marcus Lee",
+    "tags": ["feature", "devops"],
+    "createdAt": "2025-09-09T22:39:44.385587",
+    "priority": "low"
+  },
+  {
+    "id": "010",
+    "title": "Task 10: Docs",
+    "description": "Auto-seeded task number 10.",
+    "status": "in-progress",
+    "assignee": "Lina Hoffman",
+    "tags": ["docs", "frontend"],
+    "createdAt": "2025-09-09T22:39:44.385597",
+    "priority": "medium"
+  },
+  {
+    "id": "011",
+    "title": "Task 11: Polish UI",
+    "description": "Auto-seeded task number 11.",
+    "status": "done",
+    "assignee": "Omar Castillo",
+    "tags": ["devops", "backend"],
+    "createdAt": "2025-09-09T22:39:44.385605",
+    "priority": "high"
+  },
+  {
+    "id": "012",
+    "title": "Task 12: Build layout",
+    "description": "Auto-seeded task number 12.",
+    "status": "scheduled",
+    "assignee": "Amira Chen",
+    "tags": ["frontend", "bug"],
+    "createdAt": "2025-09-09T22:39:44.385614",
+    "priority": "low"
+  },
+  {
+    "id": "013",
+    "title": "Task 13: API wire",
+    "description": "Auto-seeded task number 13.",
+    "status": "in-progress",
+    "assignee": "Jordan Rivera",
+    "tags": ["backend", "feature"],
+    "createdAt": "2025-09-09T22:39:44.385623",
+    "priority": "medium"
+  },
+  {
+    "id": "014",
+    "title": "Task 14: Fix bug",
+    "description": "Auto-seeded task number 14.",
+    "status": "done",
+    "assignee": "Sofia Patel",
+    "tags": ["bug", "docs"],
+    "createdAt": "2025-09-09T22:39:44.385632",
+    "priority": "high"
+  },
+  {
+    "id": "015",
+    "title": "Task 15: Add tests",
+    "description": "Auto-seeded task number 15.",
+    "status": "scheduled",
+    "assignee": "Marcus Lee",
+    "tags": ["feature", "devops"],
+    "createdAt": "2025-09-09T22:39:44.385640",
+    "priority": "low"
+  }
+]
