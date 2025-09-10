@@ -1,5 +1,5 @@
 
-# PROJECT NAME: Kanban Task Management – Next.js (App Router)
+# Kanban Task Management – Next.js (App Router)
 
 ## SETUP INSTRUCTIONS
 ```bash
